@@ -1,0 +1,76 @@
+body,
+div,
+p,
+footer {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+body {
+  font-family: Microsoft YaHei;
+}
+#wrap {
+  margin: 0 auto;
+  overflow: hidden;
+}
+.container {
+  position: relative;
+  overflow: hidden;
+  height: 1887px;
+  width: 100%;
+  background: url(../qzone.jpg) 0% 0% no-repeat;
+  background-size: 100% 100%;
+}
+.btn {
+  width: 303px;
+  height: 60px;
+  cursor: pointer;
+  position: absolute;
+  top: 687px;
+  left: 50%;
+  background: url(about:blank);
+}
+.btn1 {
+  width: 195px;
+  height: 41px;
+  cursor: pointer;
+  position: absolute;
+  top: 987px;
+  left: 60%;
+  background: url(about:blank);
+}
+.bt2 {
+  top: 1136px;
+}
+.bt3 {
+  top: 1280px;
+}
+.num {
+  position: absolute;
+  width: 56px;
+  height: 20px;
+  left: 66.5%;
+  top: 940px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+  background: url(about:blank);
+}
+.b2 {
+  top: 1086px;
+}
+.b3 {
+  top: 1234px;
+}
+footer {
+  display: black;
+  text-align: center;
+  color: #000;
+  padding: 20px;
+  font-size: 12px;
+}
+footer a {
+  color: initial;
+}
